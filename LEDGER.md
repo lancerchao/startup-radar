@@ -16,3 +16,6 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 | Grief avatars (deceased loved ones) | rejected | StoryFile bankrupt 2024, Eternos pivoted; market keeps saying no | 2026-07-29 |
 | AI will-drafting | rejected | Unauthorized-practice-of-law exposure (felony in some states); sell organization instead | 2026-07-29 |
 | General senior social/purpose app | rejected | Engagement plays for this demo die repeatedly (GenWise 2025, Amava); transactional wins | 2026-07-29 |
+| Digital government-identity setup kit for seniors | rejected | ID.me already gives free live human video support for SSA/Login.gov account setup | 2026-07-28 |
+| Sibling eldercare cost-splitting app | rejected | No fresh why-now; multiplayer adoption problem; 4+ incumbents (CareSplit, SupportPay, Ask Felix, TendTo) | 2026-07-28 |
+| Meta AI-ad-content compliance/detection tool | rejected | Meta already auto-detects via C2PA + free one-click toggle; no detection problem left to sell | 2026-07-28 |
