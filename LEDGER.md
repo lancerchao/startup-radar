@@ -9,6 +9,8 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 | AI old-photo revival | in-sheet | Restore/colorize shoebox, pay-once; reuses careerpicai stack + ad format | 2026-07-29 |
 | "Is this a scam?" checker | in-sheet | Paste text/screenshot → verdict; $7.7B senior fraud losses 2025; WTP unproven | 2026-07-29 |
 | Solo-ager readiness organizer | in-sheet | "Who acts for me" kit for the no-partner-no-kids senior; stay off legal drafting | 2026-07-29 |
+| The Senior Line (AI phone companion + scam shield) | new | $39/mo family-paid AI check-in calls + scam screening; no competitor >18mo old, retention past 12wk unproven | 2026-07-31 |
+| AI-native senior dating (60+), safety-first | new | Known's voice-first no-forms mechanic repositioned around scam-safety for 60+; distribution gated on Meta dating-ads authorization | 2026-07-31 |
 | Social Security claiming report | watch | $29 plain-English "when to claim"; demand real, Meta financial-category kills targeting | 2026-07-29 |
 | Medicare plan picker | rejected | Broker-commission model needs licensed agents in every state + CMS TPMO rules | 2026-07-29 |
 | AI companion subscription for seniors | rejected | Payer is adult child/government; retention grind; safety/press tail risk | 2026-07-29 |
