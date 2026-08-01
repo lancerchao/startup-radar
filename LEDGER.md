@@ -9,8 +9,7 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 | AI old-photo revival | in-sheet | Restore/colorize shoebox, pay-once; reuses careerpicai stack + ad format | 2026-07-29 |
 | "Is this a scam?" checker | in-sheet | Paste text/screenshot → verdict; $7.7B senior fraud losses 2025. UPDATED 2026-08-01: wedge partly occupied now — Bumble's Deception Detector (95% block rate), Tinder Face Check, and SilverSingles' fraud detection all shipped since first surfaced; "unoccupied" framing is stale | 2026-07-29 |
 | Solo-ager readiness organizer | in-sheet | "Who acts for me" kit for the no-partner-no-kids senior; stay off legal drafting | 2026-07-29 |
-| The Senior Line (AI phone companion + scam shield) | new | $39/mo family-paid AI check-in calls + scam screening; no competitor >18mo old, retention past 12wk unproven | 2026-07-31 |
-| AI-native senior dating (60+), safety-first | new | Known's voice-first no-forms mechanic repositioned around scam-safety for 60+; distribution gated on Meta dating-ads authorization | 2026-07-31 |
+| The Senior Line (AI phone companion + scam shield) | in-sheet | $39/mo family-paid AI check-in calls + scam screening; no competitor >18mo old, retention past 12wk unproven | 2026-07-31 |
 | Social Security claiming report | watch | $29 plain-English "when to claim"; demand real, Meta financial-category kills targeting | 2026-07-29 |
 | Medicare plan picker | rejected | Broker-commission model needs licensed agents in every state + CMS TPMO rules | 2026-07-29 |
 | AI companion subscription for seniors | rejected | Payer is adult child/government; retention grind; safety/press tail risk | 2026-07-29 |
@@ -26,7 +25,7 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 | AI appeal-letter tool for disability/auto-PIP/dental/vision denials | rejected | AppealArmor's free "universal" generator already covers any denial type; ERISA disability appeals carry UPL-adjacent risk | 2026-07-29 |
 | AI beauty/skincare before-after transformation photo app | rejected | Meta's loosened before/after ad policy helps Facetune (200M+ downloads) and the trend-app field equally; no differentiation | 2026-07-30 |
 | AI doctor-visit note-taker/summarizer for seniors | rejected | DataHippo already ships this free and senior-targeted; Abridge (category leader) ships a patient companion app too | 2026-07-30 |
-| AI-native senior dating | in-sheet | Voice-AI matchmaker + scam-screening ("dating with a bodyguard") for 50+; OurTime $39.99/mo proves WTP; Meta dating-ads authorization is the real gate, not the idea | 2026-07-31 |
+| AI-native senior dating, safety-first (60+) | in-sheet | Known's voice-first no-forms mechanic repositioned around scam-safety ("dating with a bodyguard") for 50+; OurTime $39.99/mo proves WTP; Meta dating-ads authorization is the real gate, not the idea | 2026-07-31 |
 | Family Tree Keep-Alive (genealogy retention companion) | in-sheet | AI periodically surfaces new records/photos against an existing tree, low-effort voice/text prompts; models Ancestry's real ~2%/mo churn once a user is invested. Audience overlap with a headshot/job-seeker buyer is unverified — needs a probe, not a confident build | 2026-08-01 |
 | DIY At-Home AI Agent (camera-guided repair assistant) | rejected | ChatGPT/Gemini live video already ship this free; episodic use, no accumulation | 2026-08-01 |
 | Real Estate Camera AI Agent (house-tour advisor) | rejected | Same free-capability overlap as the DIY agent, plus real liability giving unlicensed inspection-adjacent advice on a $700k purchase | 2026-08-01 |
