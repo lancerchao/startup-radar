@@ -1,8 +1,10 @@
 # B2C App Filter — Lance's Rules
 
-Six gates a consumer idea must clear before it's worth pursuing over B2B. Context: two software engineers, weak at marketing/distribution, and the session-level finding is that B2B has better base-rate odds for this team (2-4x survival, lower churn, traction-override achievable via a single pilot rather than a viral spike). These rules exist to define the narrow slice of B2C where the math flips back in favor anyway.
+Ten gates a consumer idea must clear before it's worth pursuing over B2B. Context: two software engineers, weak at marketing/distribution, and the session-level finding is that B2B has better base-rate odds for this team (2-4x survival, lower churn, traction-override achievable via a single pilot rather than a viral spike).
 
-Score every B2C candidate against all six before adding it to the sheet above `watch` status. Fail one, it's a pass — not a maybe.
+**The actual objective this B2C project serves (stated 2026-08-03): not to be the big outcome itself.** Lance has free Meta ad spend already available. The goal is to build something *semi-successful* — enough real traction to (a) prove the marketing/distribution weakness is fixable, (b) build a track record and public reputation as a builder, and (c) become credible evidence for a *future* YC application, on an idea that may not even be this one. Rules 1-6 define the narrow slice of B2C economically worth pursuing over B2B; rules 7-10 filter further for the specific job this project has to do — generate a legible, tellable, reputation-positive proof point, not necessarily the best possible business.
+
+Score every B2C candidate against all ten before adding it to the sheet above `watch` status. Fail one, it's a pass — not a maybe.
 
 ## Rule 1 — Meta-targetable, not just age/gender
 
@@ -15,6 +17,8 @@ Qualifies: "recently divorced," "small business owner," "parents of a child unde
 Two conditions, both required:
 - **Retention**: real reason to keep paying past the first purchase — accumulated data/context (Ancestry-style), an ongoing service, or a recurring need. Not a one-and-done purchase.
 - **Inflow, not just stock**: new people must be entering this demographic continuously — a new cohort of parents every year, a constant stream of people changing jobs, retiring, getting married — not a fixed population you eventually saturate and have nothing left to sell into. This is why the new-parent memory-keeper concept structurally beat a purely senior-population play on this axis, even though it died on Rule 4.
+
+*Note given the trust-building objective (see intro): full LTV proof can take the whole 6-12 months, but a leading-indicator signal — early retention curve, repeat usage, week-4 cohort behavior — needs to be visible in weeks. See Rule 8.*
 
 ## Rule 3 — Existing competition doesn't disqualify, but the buyout thesis needs a real moat to work
 
@@ -38,8 +42,24 @@ Must have a real, built-in reason people bring in other people — but the mecha
 
 The target must be a defined niche, not a broad general-population category. Broad audiences mean: worse Meta targeting precision (conflicts with Rule 1), more entrenched/well-funded incumbents already serving the mass market, and no natural community-density to seed organic spread (Rule 5) or word-of-mouth (see: the YC traction research — every real organic win happened inside a *dense, specific* community, never a generic mass audience). Niche-but-real, sized and confirmed via Rule 1's Meta estimator, beats broad-and-shallow every time in this filter.
 
+## Rule 7 — Reputationally clean; actively enhances the name attached to it
+
+Given the objective is trust/brand-building toward a future YC shot, this isn't a nice-to-have — a "successful" product that damages Lance's name works *against* the actual goal, not neutrally. Kill anything where the honest one-line description reads badly to an investor, a future co-founder doing diligence, or a journalist: exploiting a vulnerable population (killed: OnlyFans-for-seniors), building on a fetishized racial/identity dynamic (killed: the "snowbunny" pairing app), enabling defamation exposure (killed: LinkedOut). The bar isn't "legal" — several killed ideas were legal. The bar is "would I want this as the headline case study when I pitch the next thing."
+
+## Rule 8 — Fast, legible leading-indicator signal
+
+Must produce a real go/kill signal within **weeks**, not require a year to know if it's working — even though full LTV realization (Rule 2) can take longer. Prefer ideas where early cohort retention, week-4 repeat usage, or organic referral rate is visible fast. This is a probe-ability requirement, same discipline as the fake-door/landing-page tests already run this session — if you can't cheaply know within a month whether this is worth continuing, it's the wrong vehicle for a trust-building project with a real opportunity cost against B2B.
+
+## Rule 9 — Produces a tellable story, not just a number
+
+The eventual pitch needs to be a sentence, not a spreadsheet: a real, specific, ideally counterintuitive lesson about distribution — not "we spent money on ads and it worked at X% margin." Since the whole point is demonstrating the marketing/distribution gap got closed, prefer execution paths that let Lance discover and later *articulate* a genuine, non-obvious growth insight (an unusual channel, an organic mechanic that outperformed paid, a niche nobody else was serving) over a path that's just "we ran the standard playbook competently." Competent-and-boring proves less in an interview than surprising-and-true.
+
+## Rule 10 — Keep the ad account and pixel separate from CareerPic's
+
+Run this on its own domain, its own Meta pixel, its own ad account — never careerpicai.com's. Protects CareerPic's proven conversion-optimization history from a new, unproven experiment, and keeps the two brand identities cleanly separable if the new project's story (per Rule 7) ever needs to stand entirely on its own. Same rule already applied to the fake-door probes earlier this session, elevated here to non-negotiable given the stakes now include reputation, not just measurement hygiene.
+
 ---
 
 ## Applying this
 
-A candidate that clears all six is rare by design — that's the point, given the base-rate case for B2B established this session. When one does clear all six, it should be flagged in the daily digest as a genuine exception worth the radar agent's full research pass, same rigor as a B2B candidate gets.
+A candidate that clears all ten is rare by design — that's the point, given the base-rate case for B2B established this session. When one does clear all ten, it should be flagged in the daily digest as a genuine exception worth the radar agent's full research pass, same rigor as a B2B candidate gets.
