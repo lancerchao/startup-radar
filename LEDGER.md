@@ -4,13 +4,14 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 
 | Idea | Status | One-liner | First seen |
 |---|---|---|---|
-| 55+ career-comeback kit | in-sheet | Ageism-aware resume/LinkedIn rewrite; same buyer as careerpicai, near-$0 CAC cross-sell | 2026-07-29 |
+| 55+ career-comeback kit | in-sheet | Ageism-aware resume/LinkedIn rewrite; same buyer as careerpicai, near-$0 CAC cross-sell. NOTE 2026-08-03: Mobley v. Workday (AI hiring age-discrimination class action) got court-authorized collective notice this cycle — reinforcing precedent, not a new claim | 2026-07-29 |
 | Voice-first AI life-story book | in-sheet | Senior speaks, AI writes, family gets hardcover; Remento/StoryWorth proved category | 2026-07-29 |
 | AI old-photo revival | in-sheet | Restore/colorize shoebox, pay-once; reuses careerpicai stack + ad format | 2026-07-29 |
 | "Is this a scam?" checker | in-sheet | Paste text/screenshot → verdict; $7.7B senior fraud losses 2025. UPDATED 2026-08-01: wedge partly occupied now — Bumble's Deception Detector (95% block rate), Tinder Face Check, and SilverSingles' fraud detection all shipped since first surfaced; "unoccupied" framing is stale | 2026-07-29 |
 | Solo-ager readiness organizer | in-sheet | "Who acts for me" kit for the no-partner-no-kids senior; stay off legal drafting | 2026-07-29 |
 | The Senior Line (AI phone companion + scam shield) | in-sheet | $39/mo family-paid AI check-in calls + scam screening; retention past 12wk unproven. WEEKLY 2026-08-02: PURSUE — claims verified (ElliQ year-3: companionship 40.1% not 50.2%, 41 interactions/day); wedge narrowing: Scammer Guardian ships standalone AI scam screening, Callie Care ($500K pre-seed) joins companionship side; combined wedge still open — run the $300 landing-page probe now | 2026-07-31 |
 | Social Security claiming report | watch | $29 plain-English "when to claim"; demand real, Meta financial-category kills targeting | 2026-07-29 |
+| Compliance-as-a-service for AI companion-chatbot operators | watch | State disclosure/self-harm-protocol/reporting compliance for companion-app builders; 98 bills/34 states, no dedicated vendor found, but buyer pool caps ARR <$1M and easiest segment (NSFW companion apps) is a deliberate call — needs a cheap WTP probe first | 2026-08-03 |
 | Medicare plan picker | rejected | Broker-commission model needs licensed agents in every state + CMS TPMO rules | 2026-07-29 |
 | AI companion subscription for seniors | rejected | Payer is adult child/government; retention grind; safety/press tail risk | 2026-07-29 |
 | Grief avatars (deceased loved ones) | rejected | StoryFile bankrupt 2024, Eternos pivoted; market keeps saying no | 2026-07-29 |
@@ -44,3 +45,5 @@ Every idea ever surfaced, exactly once. Statuses: `new` (just surfaced) · `deve
 | Meta ad rejection / account-health pre-flight checker (AI-content focus) | rejected | Repeats 2026-07-28 rejection in new packaging; auditsocials.com already ships a live "Meta Ad Rejection Predictor," Meta's native disclosure toggle is free, Revealbot automates the reactive side | 2026-08-02 |
 | Recovery-scam verification/protection service (prior fraud victims) | rejected | AARP Fraud Watch Network Helpline and Unscammed AI already give this away free; no channel to reach a specific family in the narrow post-scam window; fold-in feature for Senior Line's family briefing | 2026-08-02 |
 | Family Tree Keep-Alive (genealogy retention companion) | rejected | WEEKLY 2026-08-02 KILL (was in-sheet — pull from spreadsheet): core mechanic is Ancestry's own Hints feature (shipped since 2012); no public Ancestry API and C&D precedent against third-party tools; "~2%/mo churn" claim unsupported (best public: 3.6–3.8%/mo, 2012 IPO-era) | 2026-08-01 |
+| Click-to-cancel / auto-renewal state-law compliance tool | rejected | Churnkey and ProsperStack already ship compliant cancel-flow UX + fresh 2026 state-by-state compliance content; no open wedge | 2026-08-03 |
+| Crypto-ATM operator state-compliance tracker | rejected | ChainBytes already bundles state-compliance tracking into operators' ATM software; BitAML sells dedicated compliance consulting to the same buyer; 78% of the machine fleet sits with the 10 largest (already-served) operators | 2026-08-03 |
