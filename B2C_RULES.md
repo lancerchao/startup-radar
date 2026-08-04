@@ -54,6 +54,8 @@ Before deep-diving a vertical, ask whether the underlying *pattern* — not just
 
 **Test**: if you swapped this trade/niche for two or three other similar ones, would you find the same kind of tool already built for each? If yes, the *shape* is the problem, not the vertical — pick a genuinely different mechanic, not a fourth trade. Verify this before investing research time in a specific vertical, not after.
 
+**Calibration (Lance, 2026-08-04): 1-2 real competitors is fine on its own** — that's normal Rule 3 territory, not an automatic fail. What actually fails Rule 9 is the idea belonging to a **known crowded meta-category**, regardless of how many named competitors turn up in one search: AI photo apps, AI video apps, and AI paperwork/compliance-automation apps (per the electrician/drone/notary misses) are explicitly flagged examples. The question isn't "how many competitors did I find" — it's "is this shape one of the ones the market has already piled into."
+
 ---
 
 ## Good to knows (execution guidance, not gates — don't score candidates against these)
