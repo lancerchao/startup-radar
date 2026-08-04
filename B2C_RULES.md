@@ -56,6 +56,8 @@ Before deep-diving a vertical, ask whether the underlying *pattern* — not just
 
 **Calibration (Lance, 2026-08-04): 1-2 real competitors is fine on its own** — that's normal Rule 3 territory, not an automatic fail. What actually fails Rule 9 is the idea belonging to a **known crowded meta-category**, regardless of how many named competitors turn up in one search: AI photo apps, AI video apps, and AI paperwork/compliance-automation apps (per the electrician/drone/notary misses) are explicitly flagged examples. The question isn't "how many competitors did I find" — it's "is this shape one of the ones the market has already piled into."
 
+**Stronger finding, same day, expanded sample: 5-for-5 saturated**, not just 3-for-3. Adding tariffs and insurance-navigation to the electrician/drone/notary set: every single "a market/regulation just shifted, build a calculator or compliance tool for it" idea tested was already live and often free (8-9 existing tariff/landed-cost calculators alone). **The over-mined shape is broader than "AI + regulated trade" — it's "calculator or compliance-checker responding to ANY recent regulatory/market shift,"** across any vertical. This is the single fastest, most obvious response to "something changed," which is exactly why it's always already built by the time you think of it. Treat "I should build a calculator/checker for [thing that just changed]" as a near-automatic Rule 9 fail worth verifying immediately, not researching hopefully.
+
 ---
 
 ## Good to knows (execution guidance, not gates — don't score candidates against these)
