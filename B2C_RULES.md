@@ -1,10 +1,10 @@
 # B2C App Filter — Lance's Rules
 
-Eight gates a consumer idea must clear before it's worth pursuing over B2B. Context: two software engineers, weak at marketing/distribution, and the session-level finding is that B2B has better base-rate odds for this team (2-4x survival, lower churn, traction-override achievable via a single pilot rather than a viral spike).
+Nine gates a consumer idea must clear before it's worth pursuing over B2B. Context: two software engineers, weak at marketing/distribution, and the session-level finding is that B2B has better base-rate odds for this team (2-4x survival, lower churn, traction-override achievable via a single pilot rather than a viral spike).
 
 **The actual objective this B2C project serves (stated 2026-08-03): not to be the big outcome itself.** Lance has free Meta ad spend already available. The goal is to build something *semi-successful* — enough real traction to (a) prove the marketing/distribution weakness is fixable, (b) build a track record and public reputation as a builder, and (c) become credible evidence for a *future* YC application, on an idea that may not even be this one. Rules 1-6 define the narrow slice of B2C economically worth pursuing over B2B; rules 7-8 filter further for the specific job this project has to do — generate a legible, tellable, reputation-positive proof point, not necessarily the best possible business.
 
-Score every B2C candidate against all eight before adding it to the sheet above `watch` status. Fail one, it's a pass — not a maybe.
+Score every B2C candidate against all nine before adding it to the sheet above `watch` status. Fail one, it's a pass — not a maybe.
 
 ## Rule 1 — Meta-targetable, not just age/gender
 
@@ -48,6 +48,12 @@ Given the objective is trust/brand-building toward a future YC shot, this isn't 
 
 The eventual pitch needs to be a sentence, not a spreadsheet: a real, specific, ideally counterintuitive lesson about distribution — not "we spent money on ads and it worked at X% margin." Since the whole point is demonstrating the marketing/distribution gap got closed, prefer execution paths that let Lance discover and later *articulate* a genuine, non-obvious growth insight (an unusual channel, an organic mechanic that outperformed paid, a niche nobody else was serving) over a path that's just "we ran the standard playbook competently." Competent-and-boring proves less in an interview than surprising-and-true.
 
+## Rule 9 — Check whether the idea SHAPE is over-mined, not just the specific vertical
+
+Before deep-diving a vertical, ask whether the underlying *pattern* — not just this specific application — is one many founders are independently building right now. Verified 2026-08-04: "AI compliance checker + auto-generated documentation for a booming regulated trade" looked like three different fresh ideas (electricians, drone pilots, mobile notaries) and turned out to be the same over-mined template three times in a row — live competitors already existed in all three (FieldProxy.ai claiming 87% fewer inspection failures; DroneLog107, free; NotaryCentral's real-time state-compliance AI). This is Paul Graham's tarpit-ideas pattern in a new form: an idea that sounds obviously appealing ("compliance pain + labor shortage = surely nobody's built this") attracts many founders simultaneously for exactly that reason, and dies of competition.
+
+**Test**: if you swapped this trade/niche for two or three other similar ones, would you find the same kind of tool already built for each? If yes, the *shape* is the problem, not the vertical — pick a genuinely different mechanic, not a fourth trade. Verify this before investing research time in a specific vertical, not after.
+
 ---
 
 ## Good to knows (execution guidance, not gates — don't score candidates against these)
@@ -60,4 +66,4 @@ The eventual pitch needs to be a sentence, not a spreadsheet: a real, specific, 
 
 ## Applying this
 
-A candidate that clears all eight gates is rare by design — that's the point, given the base-rate case for B2B established this session. When one does clear all eight, it should be flagged in the daily digest as a genuine exception worth the radar agent's full research pass, same rigor as a B2B candidate gets — then run under the two "good to knows" above.
+A candidate that clears all nine gates is rare by design — that's the point, given the base-rate case for B2B established this session. When one does clear all nine, it should be flagged in the daily digest as a genuine exception worth the radar agent's full research pass, same rigor as a B2B candidate gets — then run under the two "good to knows" above.
